@@ -19,6 +19,6 @@ _Learn to perform hypothesis testing with Python._
 # LEVEL 3
 
  ## Exercise 3
-  - Continue with the sports theme dataset you like and select three attributes from the dataset. Calculate the p-value and say if you reject the null hypothesis by taking a 5% alpha.
+ - Continue with the sports theme dataset you like and select three attributes from the dataset. Calculate the p-value and say if you reject the null hypothesis by taking a 5% alpha.
  
  
