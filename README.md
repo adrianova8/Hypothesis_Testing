@@ -1,4 +1,4 @@
-# S08 T01: Tasca del test d'hipòtesis
+# S08 T01: Hypothesis Testing
 
 **Target:**
  * Calculate the p-value of different variables or set of variables
